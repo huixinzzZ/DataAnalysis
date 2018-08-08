@@ -13,3 +13,7 @@
 
 #### 3D_Bar_Map
 ![image](https://github.com/huixinzzZ/DataAnalysis/blob/master/img/3D_Bar_Map.png)
+
+![image](https://github.com/huixinzzZ/DataAnalysis/blob/master/img/4.png)
+
+![image](https://github.com/huixinzzZ/DataAnalysis/blob/master/img/5.png)
